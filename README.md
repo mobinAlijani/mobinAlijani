@@ -15,7 +15,7 @@ class JuniorDev:
             "I'm passionate about coding and creating innovative solutions. "
             "I enjoy working on IoT projects and exploring the capabilities of microcontrollers like ESP32."
         )
-        self.skills = ["Python", "Git", "CPP", "ESP32-programming"]
+        self.skills = ["Python", "Git", "CPP", "ESP32-programming","AVR_programming"]
 
         # Social Media Links
         self.social_media = {
